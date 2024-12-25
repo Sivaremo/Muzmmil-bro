@@ -596,7 +596,7 @@ p {
 }
 
 .video-overlay {
-    background-color: rgba(34, 115, 248, 0.8);
+    background-color: rgba(34, 248, 220, 0.8);
     position: absolute;
     left: 0;
     top: 0;
